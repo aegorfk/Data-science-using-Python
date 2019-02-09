@@ -1,5 +1,5 @@
 # Purchases Data Analysis
-![Example detection](assets/chairs.png)
+![Example detection](assets/RFM.png)
 ## Description
 
 Tools in this repository are designed to allow a user to make purchases data analysis, including ABC analysis for inventory categorisation, RFM analysis for customer segmentation.
@@ -9,7 +9,7 @@ The repository includes:
 * Source code for analysis in Jupyter notebooks to visualise the results.
 * Initial dataset to make analysis - dataset for test new.csv
 
-![Trained model on Video](assets/output.gif)
+![Trained model on Video](assets/sales.png)
 
 ## Usage
 ### Requirements
