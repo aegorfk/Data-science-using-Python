@@ -9,6 +9,7 @@ Finally created ensemble of models to deliver the best solution and suggested wh
 The repository includes:
 * Source code for analysis in Jupyter notebooks to visualise the results.
 * Initial datasets to make analysis.
+* Presentation with results and action plan.
 
 ![Trained model on Video](assets/sales.png)
 
