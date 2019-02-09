@@ -11,7 +11,7 @@ The repository includes:
 * Initial datasets to make analysis.
 * Presentation with results and action plan.
 
-![Trained model on Video](assets/Total_ROC.png)
+![Trained model on Video](assets/ada.png)
 
 ## Usage
 ### Requirements
