@@ -20,7 +20,7 @@ The repository includes:
 * `Apriori version 1.1.1`
 * `Lightfm version 1.15`
 
-For reproducing the results, download repository and run the Retail_analytics.ipynb file.
+For reproducing the results, download repository and run the **Retail_analytics.ipynb** file.
 
 ## License
 Copyright (c) 2018 Ekaterina Lyapina. Contact me for commercial use (or rather any use that is not academic research) (email: aegorfk at gmail.com). Free for research use, as long as proper attribution is given and this copyright notice is retained.
